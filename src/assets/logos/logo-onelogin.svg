@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .a {
+        fill: #1c1f2a;
+      }
+
+      .b {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>logos</title>
+  <g>
+    <path class="a" d="M40,0A40,40,0,1,0,80,40,40,40,0,0,0,40,0Z"/>
+    <path class="b" d="M46,54.15a1,1,0,0,1-1.15,1.15H37.63a1,1,0,0,1-1.15-1.15V36.82H31a1,1,0,0,1-1.16-1.15V28.48A1,1,0,0,1,31,27.33H45c.75,0,.93.39.93.93V54.15Z"/>
+  </g>
+</svg>
