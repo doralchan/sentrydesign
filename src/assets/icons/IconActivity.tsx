@@ -1,14 +1,17 @@
 import * as React from 'react';
 import { IconProps } from '../types';
-import IconSizes from '../../theme/sizes';
+import theme from '../../theme';
 
 export const IconActivity: React.FunctionComponent<IconProps> = ({
   color: providedColor,
   size: providedSize = 'sm',
   ...other
 }) => {
-  const size = IconSizes[providedSize];
   const color = providedColor;
+  const size =
+    typeof providedSize === 'string'
+      ? theme.IconSizes[providedSize]
+      : providedSize;
 
   return (
     <svg
