@@ -3,7 +3,7 @@ import { IconProps } from '../types';
 import theme from '../../theme';
 
 export const IconAttachment: React.FunctionComponent<IconProps> = ({
-  color: providedColor,
+  color: providedColor = theme.Colors.black,
   size: providedSize = 'sm',
   ...other
 }) => {

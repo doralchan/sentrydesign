@@ -3,7 +3,7 @@ import { IconProps } from '../types';
 import theme from '../../theme';
 
 export const IconArrow: React.FunctionComponent<IconProps> = ({
-  color: providedColor,
+  color: providedColor = theme.Colors.black,
   size: providedSize = 'sm',
   direction: providedDirection = 'up',
   ...other
@@ -15,7 +15,7 @@ export const IconArrow: React.FunctionComponent<IconProps> = ({
       : providedSize;
   const direction =
     typeof providedDirection === 'string'
-      ? theme.Directions[providedDirection]
+      ? theme.IconDirections[providedDirection]
       : providedDirection;
 
   return (
