@@ -13,7 +13,87 @@ import {
   IconChat,
   IconCheckmark,
   IconChevron,
-  IconClock
+  IconClock,
+  IconClose,
+  IconCode,
+  IconCommit,
+  IconCreditCard,
+  IconDashboard,
+  IconDelete,
+  IconDocs,
+  IconDownload,
+  IconDuplicate,
+  IconEdit,
+  IconEllipsis,
+  IconFile,
+  IconFilter,
+  IconFire,
+  IconFix,
+  IconFolder,
+  IconGift,
+  // IconGrabbable,
+  // IconGraph,
+  // IconGrid,
+  // IconGroup,
+  // IconHealth,
+  // IconHide,
+  // IconHome,
+  // IconImage,
+  // IconInfo,
+  // IconInput,
+  // IconInternational,
+  // IconIssues,
+  // IconKit,
+  // IconLab,
+  // IconLaptop,
+  // IconLightbulb,
+  // IconLightning,
+  // IconLink,
+  // IconList,
+  // IconLocation,
+  // IconLock,
+  // IconMail,
+  // IconMegaphone,
+  // IconMenu,
+  // IconMobile,
+  // IconMoon,
+  // IconNetwork,
+  // IconNext,
+  // IconNot,
+  // IconOpen,
+  // IconPin,
+  // IconPlanet,
+  // IconPlay,
+  // IconPrevious,
+  // IconPrint,
+  // IconProjects,
+  // IconQuestion,
+  // IconRefresh,
+  // IconReleases,
+  // IconReturn,
+  // IconSearch,
+  // IconSend,
+  // IconSettings,
+  // IconShow,
+  // IconSiren,
+  // IconSliders,
+  // IconSpaceship,
+  // IconStack,
+  // IconStar,
+  // IconStop,
+  // IconSubtract,
+  // IconSupport,
+  // IconSwitch,
+  // IconSync,
+  // IconTelescope,
+  // IconText,
+  // IconUnlock,
+  // IconUpgrade,
+  // IconUpload,
+  // IconUser,
+  // IconWallet,
+  // IconWarning,
+  // IconWindow
 } from '../assets';
 
 function App() {
@@ -45,12 +125,33 @@ function App() {
       <IconChevron direction='down' circle={true} />
       <IconChevron direction='left' circle={true} />
       <IconClock />
+      <IconClose />
+      <IconClose circle={true} />
+      <IconCode />
+      <IconCommit />
+      <IconCreditCard />
+      <IconDashboard />
+      <IconDelete />
+      <IconDocs />
+      <IconDownload />
+      <IconDuplicate />
+      <IconEdit />
+      <IconEllipsis />
+      <IconFile />
+      <IconFilter />
+      <IconFire />
+      <IconFix />
+      <IconFolder />
+      <IconGift />
     </Container>
   );
 }
 
 const Container = styled('div')`
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(10, 1.5em);
+  grid-template-rows: repeat(10, 1.5em);
+  grid-gap: 4px;
 `
 
 export default App;
