@@ -49,19 +49,19 @@ import {
   IconLightbulb,
   IconLightning,
   IconLink,
-  // IconList,
-  // IconLocation,
-  // IconLock,
-  // IconMail,
-  // IconMegaphone,
-  // IconMenu,
-  // IconMobile,
-  // IconMoon,
-  // IconNetwork,
-  // IconNext,
-  // IconNot,
-  // IconOpen,
-  // IconPin,
+  IconList,
+  IconLocation,
+  IconLock,
+  IconMail,
+  IconMegaphone,
+  IconMenu,
+  IconMobile,
+  IconMoon,
+  IconNetwork,
+  IconNext,
+  IconNot,
+  IconOpen,
+  IconPin,
   // IconPlanet,
   // IconPlay,
   // IconPrevious,
@@ -164,6 +164,20 @@ function App() {
       <IconLightning />
       <IconLightning fill={true} />
       <IconLink />
+      <IconList />
+      <IconLocation />
+      <IconLock />
+      <IconMail />
+      <IconMegaphone />
+      <IconMenu />
+      <IconMobile />
+      <IconMoon />
+      <IconNetwork />
+      <IconNext />
+      <IconNot />
+      <IconOpen />
+      <IconPin />
+      <IconPin fill={true} />
     </Container>
   );
 }
