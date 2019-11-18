@@ -34,7 +34,7 @@ import {
   IconGrabbable,
   IconGraph,
   IconGrid,
-  // IconGroup,
+  IconGroup,
   // IconHealth,
   // IconHide,
   // IconHome,
@@ -148,6 +148,7 @@ function App() {
       <IconGraph type='circle' />
       <IconGraph type='bar' />
       <IconGrid />
+      <IconGroup />
     </Container>
   );
 }

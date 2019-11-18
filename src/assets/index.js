@@ -31,7 +31,7 @@ export * from './icons/IconGift';
 export * from './icons/IconGrabbable';
 export * from './icons/IconGraph';
 export * from './icons/IconGrid';
-// export * from './icons/IconGroup';
+export * from './icons/IconGroup';
 // export * from './icons/IconHealth';
 // export * from './icons/IconHide';
 // export * from './icons/IconHome';
