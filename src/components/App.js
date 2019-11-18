@@ -31,9 +31,9 @@ import {
   IconFix,
   IconFolder,
   IconGift,
-  // IconGrabbable,
-  // IconGraph,
-  // IconGrid,
+  IconGrabbable,
+  IconGraph,
+  IconGrid,
   // IconGroup,
   // IconHealth,
   // IconHide,
@@ -143,15 +143,22 @@ function App() {
       <IconFix />
       <IconFolder />
       <IconGift />
+      <IconGrabbable />
+      <IconGraph />
+      <IconGraph type='circle' />
+      <IconGraph type='bar' />
+      <IconGrid />
     </Container>
   );
 }
 
 const Container = styled('div')`
   display: grid;
-  grid-template-columns: repeat(10, 1.5em);
-  grid-template-rows: repeat(10, 1.5em);
-  grid-gap: 4px;
+  grid-template-columns: repeat(16, 1em);
+  grid-template-rows: repeat(16, 1em);
+  justify-items: center;
+  align-items: center;
+  grid-gap: 8px;
 `
 
 export default App;

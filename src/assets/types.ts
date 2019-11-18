@@ -4,4 +4,5 @@ export interface IconProps extends React.SVGAttributes<SVGElement> {
   direction?: 'up' | 'right' | 'down' | 'left';
   fill?: string;
   circle?: string;
+  type?: 'bar' | 'circle' | 'line';
 }
