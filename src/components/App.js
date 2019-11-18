@@ -62,29 +62,30 @@ import {
   IconNot,
   IconOpen,
   IconPin,
-  // IconPlanet,
-  // IconPlay,
-  // IconPrevious,
-  // IconPrint,
-  // IconProjects,
-  // IconQuestion,
-  // IconRefresh,
-  // IconReleases,
-  // IconReturn,
-  // IconSearch,
-  // IconSend,
-  // IconSettings,
-  // IconShow,
-  // IconSiren,
-  // IconSliders,
-  // IconSpaceship,
-  // IconStack,
-  // IconStar,
-  // IconStop,
-  // IconSubtract,
-  // IconSupport,
-  // IconSwitch,
-  // IconSync,
+  IconPlanet,
+  IconPlay,
+  IconPrevious,
+  IconPrint,
+  IconProject,
+  IconProjects,
+  IconQuestion,
+  IconRefresh,
+  IconReleases,
+  IconReturn,
+  IconSearch,
+  IconSend,
+  IconSettings,
+  IconShow,
+  IconSiren,
+  IconSliders,
+  IconSpaceship,
+  IconStack,
+  IconStar,
+  IconStop,
+  IconSubtract,
+  IconSupport,
+  IconSwitch,
+  IconSync,
   // IconTelescope,
   // IconText,
   // IconUnlock,
@@ -178,6 +179,33 @@ function App() {
       <IconOpen />
       <IconPin />
       <IconPin fill={true} />
+      <IconPlanet />
+      <IconPlay />
+      <IconPrevious />
+      <IconPrint />
+      <IconProject />
+      <IconProjects />
+      <IconQuestion />
+      <IconRefresh />
+      <IconReleases />
+      <IconReturn />
+      <IconSearch />
+      <IconSend />
+      <IconSettings />
+      <IconShow />
+      <IconSiren />
+      <IconSliders />
+      <IconSliders direction='right' />
+      <IconSpaceship />
+      <IconStack />
+      <IconStar />
+      <IconStar fill={true} />
+      <IconStop />
+      <IconSubtract />
+      <IconSubtract circle={true} />
+      <IconSupport />
+      <IconSwitch />
+      <IconSync />
     </Container>
   );
 }
