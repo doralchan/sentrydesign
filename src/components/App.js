@@ -35,20 +35,20 @@ import {
   IconGraph,
   IconGrid,
   IconGroup,
-  // IconHealth,
-  // IconHide,
-  // IconHome,
-  // IconImage,
-  // IconInfo,
-  // IconInput,
-  // IconInternational,
-  // IconIssues,
-  // IconKit,
-  // IconLab,
-  // IconLaptop,
-  // IconLightbulb,
-  // IconLightning,
-  // IconLink,
+  IconHealth,
+  IconHide,
+  IconHome,
+  IconImage,
+  IconInfo,
+  IconInput,
+  IconInternational,
+  IconIssues,
+  IconKit,
+  IconLab,
+  IconLaptop,
+  IconLightbulb,
+  IconLightning,
+  IconLink,
   // IconList,
   // IconLocation,
   // IconLock,
@@ -149,6 +149,21 @@ function App() {
       <IconGraph type='bar' />
       <IconGrid />
       <IconGroup />
+      <IconHealth />
+      <IconHide />
+      <IconHome />
+      <IconImage />
+      <IconInfo />
+      <IconInput />
+      <IconInternational />
+      <IconIssues />
+      <IconKit />
+      <IconLab />
+      <IconLaptop />
+      <IconLightbulb />
+      <IconLightning />
+      <IconLightning fill={true} />
+      <IconLink />
     </Container>
   );
 }
