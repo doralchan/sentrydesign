@@ -168,6 +168,7 @@ function App() {
         <IconLink />
         <IconList />
         <IconLocation />
+        <IconLocation fill={true} />
         <IconLock />
         <IconMail />
         <IconMegaphone />
