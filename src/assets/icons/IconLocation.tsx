@@ -5,7 +5,7 @@ import theme from '../../theme';
 export const IconLocation: React.FunctionComponent<IconProps> = ({
   color: providedColor = theme.Colors.black,
   size: providedSize = 'sm',
-  fill: providedFill = false,
+  solid: providedSolid = false,
   ...other
 }) => {
   const color = providedColor;
@@ -23,7 +23,7 @@ export const IconLocation: React.FunctionComponent<IconProps> = ({
       {...other}
     >
       {
-        providedFill === true
+        providedSolid === true
         ?
         <g>
           <path d="M8,16a.74.74,0,0,1-.45-.15c-4-3-6.09-6.16-6.09-9.29A6.55,6.55,0,0,1,8,0a6.54,6.54,0,0,1,6.54,6.54c0,3.14-2,6.26-6.09,9.29A.74.74,0,0,1,8,16ZM8,4.05a2,2,0,1,0,2,2A2,2,0,0,0,8,4.05Z"/>

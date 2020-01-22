@@ -5,7 +5,7 @@ import theme from '../../theme';
 export const IconLightning: React.FunctionComponent<IconProps> = ({
   color: providedColor = theme.Colors.black,
   size: providedSize = 'sm',
-  fill: providedFill = false,
+  solid: providedSolid = false,
   ...other
 }) => {
   const color = providedColor;
@@ -23,7 +23,7 @@ export const IconLightning: React.FunctionComponent<IconProps> = ({
       {...other}
     >
       {
-        providedFill === true
+        providedSolid === true
         ?
         <g>
           <path d="M3.81,16a1.21,1.21,0,0,1-.74-.26,1.19,1.19,0,0,1-.33-1.45L4.79,10,2.32,8.39a1,1,0,0,1-.07-1.58L10.67.26a1.19,1.19,0,0,1,1.8,1.46L10.41,6,12.9,7.64a1,1,0,0,1,.44.78,1,1,0,0,1-.38.8L4.54,15.74A1.15,1.15,0,0,1,3.81,16Z"/>

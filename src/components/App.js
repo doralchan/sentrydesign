@@ -103,7 +103,7 @@ function App() {
       <Wrapper>
         <IconActivity />
         <IconAdd />
-        <IconAdd circle={true} />
+        <IconAdd circle />
         <IconArrow />
         <IconArrow direction='right' />
         <IconArrow direction='down' />
@@ -111,24 +111,24 @@ function App() {
         <IconAttachment />
         <IconBell />
         <IconBookmark />
-        <IconBookmark fill={true} />
+        <IconBookmark solid />
         <IconBranch />
         <IconBroadcast />
         <IconCalendar />
         <IconChat />
         <IconCheckmark />
-        <IconCheckmark circle={true} />
+        <IconCheckmark circle />
         <IconChevron />
         <IconChevron direction='right' />
         <IconChevron direction='down' />
         <IconChevron direction='left' />
-        <IconChevron circle={true} />
-        <IconChevron direction='right' circle={true} />
-        <IconChevron direction='down' circle={true} />
-        <IconChevron direction='left' circle={true} />
+        <IconChevron circle />
+        <IconChevron direction='right' circle />
+        <IconChevron direction='down' circle />
+        <IconChevron direction='left' circle />
         <IconClock />
         <IconClose />
-        <IconClose circle={true} />
+        <IconClose circle />
         <IconCode />
         <IconCommit />
         <IconCreditCard />
@@ -164,11 +164,11 @@ function App() {
         <IconLaptop />
         <IconLightbulb />
         <IconLightning />
-        <IconLightning fill={true} />
+        <IconLightning solid />
         <IconLink />
         <IconList />
         <IconLocation />
-        <IconLocation fill={true} />
+        <IconLocation solid />
         <IconLock />
         <IconMail />
         <IconMegaphone />
@@ -180,7 +180,7 @@ function App() {
         <IconNot />
         <IconOpen />
         <IconPin />
-        <IconPin fill={true} />
+        <IconPin solid />
         <IconPlanet />
         <IconPlay />
         <IconPrevious />
@@ -201,10 +201,10 @@ function App() {
         <IconSpaceship />
         <IconStack />
         <IconStar />
-        <IconStar fill={true} />
+        <IconStar solid />
         <IconStop />
         <IconSubtract />
-        <IconSubtract circle={true} />
+        <IconSubtract circle />
         <IconSupport />
         <IconSwitch />
         <IconSync />
