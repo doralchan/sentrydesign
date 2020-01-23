@@ -17,12 +17,12 @@ import {
   IconClose,
   IconCode,
   IconCommit,
+  IconCopy,
   IconCreditCard,
   IconDashboard,
   IconDelete,
   IconDocs,
   IconDownload,
-  IconDuplicate,
   IconEdit,
   IconEllipsis,
   IconFile,
@@ -131,12 +131,12 @@ function App() {
         <IconClose circle />
         <IconCode />
         <IconCommit />
+        <IconCopy />
         <IconCreditCard />
         <IconDashboard />
         <IconDelete />
         <IconDocs />
         <IconDownload />
-        <IconDuplicate />
         <IconEdit />
         <IconEllipsis />
         <IconFile />

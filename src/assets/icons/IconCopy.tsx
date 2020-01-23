@@ -2,7 +2,7 @@ import * as React from 'react';
 import { IconProps } from '../types';
 import theme from '../../theme';
 
-export const IconDuplicate: React.FunctionComponent<IconProps> = ({
+export const IconCopy: React.FunctionComponent<IconProps> = ({
   color: providedColor = theme.Colors.black,
   size: providedSize = 'sm',
   ...other

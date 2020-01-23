@@ -19,7 +19,7 @@ export * from './icons/IconDashboard';
 export * from './icons/IconDelete';
 export * from './icons/IconDocs';
 export * from './icons/IconDownload';
-export * from './icons/IconDuplicate';
+export * from './icons/IconCopy';
 export * from './icons/IconEdit';
 export * from './icons/IconEllipsis';
 export * from './icons/IconFile';
