@@ -28,6 +28,7 @@ export * from './icons/IconFire';
 export * from './icons/IconFix';
 export * from './icons/IconFolder';
 export * from './icons/IconGift';
+export * from './icons/IconGithub';
 export * from './icons/IconGrabbable';
 export * from './icons/IconGraph';
 export * from './icons/IconGrid';

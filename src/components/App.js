@@ -31,6 +31,7 @@ import {
   IconFix,
   IconFolder,
   IconGift,
+  IconGithub,
   IconGrabbable,
   IconGraph,
   IconGrid,
@@ -145,6 +146,7 @@ function App() {
         <IconFix />
         <IconFolder />
         <IconGift />
+        <IconGithub />
         <IconGrabbable />
         <IconGraph />
         <IconGraph type='circle' />
