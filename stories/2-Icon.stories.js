@@ -31,6 +31,7 @@ import {
   IconFix,
   IconFolder,
   IconGift,
+  IconGithub,
   IconGrabbable,
   IconGraph,
   IconGrid,
@@ -148,6 +149,7 @@ export const icons = () => (
       <IconFix />
       <IconFolder />
       <IconGift />
+      <IconGithub />
       <IconGrabbable />
       <IconGraph />
       <IconGraph type='circle' />
