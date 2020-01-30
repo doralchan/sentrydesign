@@ -87,8 +87,10 @@ import {
   IconSupport,
   IconSwitch,
   IconSync,
+  IconTag,
   IconTelescope,
   IconText,
+  IconToggle,
   IconUnlock,
   IconUpgrade,
   IconUpload,
@@ -210,8 +212,10 @@ function App() {
         <IconSupport />
         <IconSwitch />
         <IconSync />
+        <IconTag />
         <IconTelescope />
         <IconText />
+        <IconToggle />
         <IconUnlock />
         <IconUpgrade />
         <IconUpload />
