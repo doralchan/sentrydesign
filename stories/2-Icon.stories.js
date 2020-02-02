@@ -17,12 +17,12 @@ import {
   IconClose,
   IconCode,
   IconCommit,
+  IconCopy,
   IconCreditCard,
   IconDashboard,
   IconDelete,
   IconDocs,
   IconDownload,
-  IconDuplicate,
   IconEdit,
   IconEllipsis,
   IconFile,
@@ -87,8 +87,10 @@ import {
   IconSupport,
   IconSwitch,
   IconSync,
+  IconTag,
   IconTelescope,
   IconText,
+  IconToggle,
   IconUnlock,
   IconUpgrade,
   IconUpload,
@@ -107,7 +109,7 @@ export const icons = () => (
     <Wrapper>
       <IconActivity />
       <IconAdd />
-      <IconAdd circle={true} />
+      <IconAdd circle />
       <IconArrow />
       <IconArrow direction='right' />
       <IconArrow direction='down' />
@@ -115,32 +117,32 @@ export const icons = () => (
       <IconAttachment />
       <IconBell />
       <IconBookmark />
-      <IconBookmark fill={true} />
+      <IconBookmark solid />
       <IconBranch />
       <IconBroadcast />
       <IconCalendar />
       <IconChat />
       <IconCheckmark />
-      <IconCheckmark circle={true} />
+      <IconCheckmark circle />
       <IconChevron />
       <IconChevron direction='right' />
       <IconChevron direction='down' />
       <IconChevron direction='left' />
-      <IconChevron circle={true} />
-      <IconChevron direction='right' circle={true} />
-      <IconChevron direction='down' circle={true} />
-      <IconChevron direction='left' circle={true} />
+      <IconChevron circle />
+      <IconChevron direction='right' circle />
+      <IconChevron direction='down' circle />
+      <IconChevron direction='left' circle />
       <IconClock />
       <IconClose />
-      <IconClose circle={true} />
+      <IconClose circle />
       <IconCode />
       <IconCommit />
+      <IconCopy />
       <IconCreditCard />
       <IconDashboard />
       <IconDelete />
       <IconDocs />
       <IconDownload />
-      <IconDuplicate />
       <IconEdit />
       <IconEllipsis />
       <IconFile />
@@ -169,10 +171,11 @@ export const icons = () => (
       <IconLaptop />
       <IconLightbulb />
       <IconLightning />
-      <IconLightning fill={true} />
+      <IconLightning solid />
       <IconLink />
       <IconList />
       <IconLocation />
+      <IconLocation solid />
       <IconLock />
       <IconMail />
       <IconMegaphone />
@@ -184,7 +187,7 @@ export const icons = () => (
       <IconNot />
       <IconOpen />
       <IconPin />
-      <IconPin fill={true} />
+      <IconPin solid />
       <IconPlanet />
       <IconPlay />
       <IconPrevious />
@@ -205,15 +208,17 @@ export const icons = () => (
       <IconSpaceship />
       <IconStack />
       <IconStar />
-      <IconStar fill={true} />
+      <IconStar solid />
       <IconStop />
       <IconSubtract />
-      <IconSubtract circle={true} />
+      <IconSubtract circle />
       <IconSupport />
       <IconSwitch />
       <IconSync />
+      <IconTag />
       <IconTelescope />
       <IconText />
+      <IconToggle />
       <IconUnlock />
       <IconUpgrade />
       <IconUpload />
