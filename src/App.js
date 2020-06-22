@@ -27,7 +27,7 @@ const Message = styled('div')`
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 16px;
+  margin: 8px 0 24px 0;
 `;
 
 const Subtext = styled('p')`
