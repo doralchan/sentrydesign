@@ -3,7 +3,7 @@ import Logo from './components/logo';
 
 import styled from '@emotion/styled';
 
-function App() {
+function Preview() {
   return (
     <Landing>
       <Logo fullLogo={false} />
@@ -21,6 +21,8 @@ const Landing = styled('div')`
   justify-content: center;
   align-items: center;
   height: 100vh;
+  color: #ffffff;
+  background-color: #120F15;
 `;
 
 const Message = styled('div')`
@@ -32,7 +34,7 @@ const Message = styled('div')`
 
 const Subtext = styled('p')`
   margin: 8px;
-  color: #9585A3;
+  color: #4A3E56;
 `;
 
-export default App;
+export default Preview;
