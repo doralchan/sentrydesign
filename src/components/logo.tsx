@@ -9,7 +9,7 @@ type Props = {
   fullLogo: boolean
 }
 
-class Logo extends React.Component<Props> {
+export default class Logo extends React.Component<Props> {
   static propTypes = {
     fullLogo: PropTypes.bool,
   }
@@ -28,5 +28,3 @@ class Logo extends React.Component<Props> {
 const LogoImage = styled('img')`
   height: 60px;
 `;
-
-export default Logo;
