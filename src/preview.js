@@ -4,9 +4,7 @@ import styled from '@emotion/styled';
 
 function Preview() {
   return (
-    <Landing>
-      TBD
-    </Landing>
+    <Landing />
   );
 }
 
