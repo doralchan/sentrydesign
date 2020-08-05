@@ -1,8 +1,7 @@
 import React from 'react';
 
 export default {
-  title: 'Introduction'
+  title: 'Introduction',
 };
 
-export const LightMode = () => <div>Light Mode</div>;
-export const DarkMode = () => <div>Dark Mode</div>;
+export const DesignSystem = () => <div>This is a prototype of the Sentry Design System.</div>;

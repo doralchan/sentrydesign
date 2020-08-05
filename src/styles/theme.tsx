@@ -8,11 +8,11 @@ const colors = {
   gray400: '#776589',
   gray500: '#2B1D38',
 
-  purple100: '#6C5FC7',
+  purple100: '#D4D1EC',
   purple200: '#A396DA',
-  purple300: '#D4D1EC',
+  purple300: '#6C5FC7',
 
-  blue100: '#3D74DB',
+  blue100: '#D2DFF7',
   blue200: '#92A8EA',
   blue300: '#3D74DB',
 
@@ -33,8 +33,25 @@ const colors = {
   pink300: '#F05781',
 } as const; 
 
+const iconSizes = {
+  xs: '12px',
+  sm: '16px',
+  md: '20px',
+  lg: '24px',
+  xl: '32px',
+  xxl: '72px',
+} as const;
+
+const iconDirections = {
+  up: '0',
+  right: '90',
+  down: '180',
+  left: '270',
+} as const;
+
 const theme = {
-  breakpoints: ['768px', '992px', '1200px', '1440px', '2560px'],
+  ...iconSizes,
+  ...iconDirections,
   ...colors
 }
 
