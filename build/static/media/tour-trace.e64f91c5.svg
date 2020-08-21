@@ -9,6 +9,26 @@
 	.st4{fill:#FF7738;}
 	.st5{fill:#3E2C73;}
 	.st6{fill:none;stroke:#3E2C73;}
+	.tracer {
+		animation: backforth 6s infinite ease-in-out; 
+	}
+	@keyframes backforth {
+		0% {
+			transform: translateX(0px);
+		}
+		25% {
+			transform: translateX(50px);
+		}
+		50% {
+			transform: translateX(0px);
+		}
+		75% {
+			transform: translateX(-20px);
+		}
+		100% {
+			transform: translateX(0px);
+		}
+	}
 </style>
 <g id="background">
 	<path class="st0" d="M82,103l209,0v7l-209,0V103z"/>
@@ -55,7 +75,7 @@
 	<rect x="106" y="32" class="st4" width="33" height="7"/>
 	<rect x="160" y="60" class="st4" width="42" height="7"/>
 </g>
-<g id="tracer">
+<g id="tracer" class="tracer">
 	<circle class="st5" cx="179.5" cy="3.5" r="3.5"/>
 	<circle class="st5" cx="179.5" cy="140.5" r="3.5"/>
 	<line class="st6" x1="179.5" y1="4" x2="179.5" y2="141"/>

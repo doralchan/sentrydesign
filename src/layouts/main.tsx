@@ -17,7 +17,7 @@ const Container = styled('div')`
 `
 
 const Image = styled('img')`
-  max-width: 450px;
+  max-width: 420px;
   justify-self: center;
   align-self: center;
 `;
