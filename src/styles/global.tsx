@@ -40,6 +40,9 @@ export const GlobalStyle = () => (
       h5 {
         font-size: 1.2em;
       }
+      h1, h2, h3, h4, h5 {
+        font-weight: normal;
+      }
       p {
         font-size: 1em;
       }

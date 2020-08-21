@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.9c5a48d2.chunk.js",
-    "main.js.map": "/static/js/main.9c5a48d2.chunk.js.map",
+    "main.js": "/static/js/main.36ab7891.chunk.js",
+    "main.js.map": "/static/js/main.36ab7891.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4a55df43.js",
     "runtime-main.js.map": "/static/js/runtime-main.4a55df43.js.map",
-    "static/js/2.9dedbdb6.chunk.js": "/static/js/2.9dedbdb6.chunk.js",
-    "static/js/2.9dedbdb6.chunk.js.map": "/static/js/2.9dedbdb6.chunk.js.map",
+    "static/js/2.beff3ff0.chunk.js": "/static/js/2.beff3ff0.chunk.js",
+    "static/js/2.beff3ff0.chunk.js.map": "/static/js/2.beff3ff0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e97079a6ff5c40dc5a62492129d10578.js": "/precache-manifest.e97079a6ff5c40dc5a62492129d10578.js",
+    "precache-manifest.eb0d8cb92a670065ffb2bdc034757606.js": "/precache-manifest.eb0d8cb92a670065ffb2bdc034757606.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.9dedbdb6.chunk.js.LICENSE.txt": "/static/js/2.9dedbdb6.chunk.js.LICENSE.txt"
+    "static/js/2.beff3ff0.chunk.js.LICENSE.txt": "/static/js/2.beff3ff0.chunk.js.LICENSE.txt",
+    "static/media/tour-alerts.svg": "/static/media/tour-alerts.372f0f6f.svg",
+    "static/media/tour-issues.svg": "/static/media/tour-issues.fe810ff4.svg",
+    "static/media/tour-summary.svg": "/static/media/tour-summary.1f6bac7b.svg",
+    "static/media/tour-trace.svg": "/static/media/tour-trace.d7583f65.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4a55df43.js",
-    "static/js/2.9dedbdb6.chunk.js",
-    "static/js/main.9c5a48d2.chunk.js"
+    "static/js/2.beff3ff0.chunk.js",
+    "static/js/main.36ab7891.chunk.js"
   ]
 }

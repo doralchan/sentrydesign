@@ -49,10 +49,26 @@ const iconDirections = {
   left: '270',
 } as const;
 
+const lightMode = {
+  text: colors.gray500,
+  background: colors.white,
+  labels: colors.gray400, 
+  border: colors.gray200,
+} as const;
+
+const darkMode = {
+  text: colors.gray500,
+  background: colors.white,
+  labels: colors.gray300, 
+  border: colors.gray400,
+}
+
 const theme = {
   ...iconSizes,
   ...iconDirections,
-  ...colors
+  ...colors,
+  ...lightMode,
+  ...darkMode,
 }
 
 export type Theme = typeof theme;
