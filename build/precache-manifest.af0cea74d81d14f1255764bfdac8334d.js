@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16f2c9d2ad39814a54654900efdbb303",
+    "revision": "e82ae778cc95474f8b14a28392129504",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.5d213254.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3ec86256f939d4fd20d",
-    "url": "/static/js/main.d94e0b31.chunk.js"
+    "revision": "d62499abe79e4d24f559",
+    "url": "/static/js/main.245bc7e4.chunk.js"
   },
   {
     "revision": "416be146ddb5e02c6522",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/tour-alerts.e16fb8f4.svg"
   },
   {
-    "revision": "5c297ddad4a91d9924892a88246df24c",
-    "url": "/static/media/tour-builder.5c297dda.svg"
+    "revision": "69b9654ab4ed4004c02b1ba157b0af6b",
+    "url": "/static/media/tour-builder.69b9654a.svg"
   },
   {
     "revision": "ba5cedb20442db8ae66b2401449aa262",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/tour-graph.693e830e.svg"
   },
   {
-    "revision": "9a3f80829ec2f0d6811d2b7b0ef8cf5e",
-    "url": "/static/media/tour-issues.9a3f8082.svg"
+    "revision": "4b1cecb23ff98ba460d9536ddec7f4c1",
+    "url": "/static/media/tour-issues.4b1cecb2.svg"
   },
   {
     "revision": "bf4687e6eb91d44ea046716f1f09229a",
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/tour-summary.cad733fc.svg"
   },
   {
-    "revision": "6d8de5e5a8b5ee6ccfd70a7c2e2edfb3",
-    "url": "/static/media/tour-trace.6d8de5e5.svg"
+    "revision": "07eb81fc801855336b6889c99045384c",
+    "url": "/static/media/tour-trace.07eb81fc.svg"
   }
 ]);
