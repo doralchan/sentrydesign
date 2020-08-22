@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.js": "/static/js/main.f38f8148.chunk.js",
-    "main.js.map": "/static/js/main.f38f8148.chunk.js.map",
+    "main.js": "/static/js/main.23068afa.chunk.js",
+    "main.js.map": "/static/js/main.23068afa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4a55df43.js",
     "runtime-main.js.map": "/static/js/runtime-main.4a55df43.js.map",
-    "static/js/2.beff3ff0.chunk.js": "/static/js/2.beff3ff0.chunk.js",
-    "static/js/2.beff3ff0.chunk.js.map": "/static/js/2.beff3ff0.chunk.js.map",
+    "static/js/2.5d213254.chunk.js": "/static/js/2.5d213254.chunk.js",
+    "static/js/2.5d213254.chunk.js.map": "/static/js/2.5d213254.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.93b739bd91c9b768796e1d2aea003f01.js": "/precache-manifest.93b739bd91c9b768796e1d2aea003f01.js",
+    "precache-manifest.613443535e78ed7505eb7b42e591520b.js": "/precache-manifest.613443535e78ed7505eb7b42e591520b.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.beff3ff0.chunk.js.LICENSE.txt": "/static/js/2.beff3ff0.chunk.js.LICENSE.txt",
-    "static/media/tour-alerts.svg": "/static/media/tour-alerts.452e94f3.svg",
-    "static/media/tour-issues.svg": "/static/media/tour-issues.e6f3d2d6.svg",
+    "static/js/2.5d213254.chunk.js.LICENSE.txt": "/static/js/2.5d213254.chunk.js.LICENSE.txt",
+    "static/media/tour-alerts.svg": "/static/media/tour-alerts.e16fb8f4.svg",
+    "static/media/tour-builder.svg": "/static/media/tour-builder.5c297dda.svg",
+    "static/media/tour-discover.svg": "/static/media/tour-discover.ba5cedb2.svg",
+    "static/media/tour-graph.svg": "/static/media/tour-graph.693e830e.svg",
+    "static/media/tour-issues.svg": "/static/media/tour-issues.dfae89e3.svg",
+    "static/media/tour-queries.svg": "/static/media/tour-queries.bf4687e6.svg",
+    "static/media/tour-search.svg": "/static/media/tour-search.d347e7c0.svg",
     "static/media/tour-summary.svg": "/static/media/tour-summary.cad733fc.svg",
-    "static/media/tour-trace.svg": "/static/media/tour-trace.e64f91c5.svg"
+    "static/media/tour-trace.svg": "/static/media/tour-trace.6d8de5e5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4a55df43.js",
-    "static/js/2.beff3ff0.chunk.js",
-    "static/js/main.f38f8148.chunk.js"
+    "static/js/2.5d213254.chunk.js",
+    "static/js/main.23068afa.chunk.js"
   ]
 }
