@@ -29,10 +29,31 @@
 		<path class="st4" d="M187,11.4c4.2,0,7.6,3.4,7.6,7.6s-3.4,7.6-7.6,7.6c-4.2,0-7.6-3.4-7.6-7.6S182.8,11.4,187,11.4z"/>
 	</g>
 	<g>
+		<rect x="15" y="84" class="bar" width="8" height="4" transform="rotate(180 19 86)">
+			<animate
+				attributeName="height"
+				dur="3s"
+				values="4;10;4"
+				repeatCount="indefinite"
+				/>
+		</rect>
 		<rect x="28" y="80" class="bar" width="8" height="8"></rect>
-		<rect x="54" y="75" class="bar" width="8" height="13"></rect>
-		<rect x="41" y="78" class="bar" width="8" height="10"></rect>
-		<rect x="15" y="84" class="bar" width="8" height="4"></rect>
+		<rect x="41" y="78" class="bar" width="8" height="10" transform="rotate(180 45 83)">
+			<animate
+				attributeName="height"
+				dur="3s"
+				values="10;20;10"
+				repeatCount="indefinite"
+				/>		
+		</rect>
+		<rect x="54" y="75" class="bar" width="8" height="13" transform="rotate(180 58 81.5)">
+			<animate
+				attributeName="height"
+				dur="3s"
+				values="13;4;13"
+				repeatCount="indefinite"
+				/>		
+		</rect>
 	</g>
 	<g id="card_2">
 		<path class="st0" d="M283,152.2L282.1,48c0-1.1-0.9-2-2-2h-209c-1.1,0-2,0.9-2,2L68,153c0,1.1,0.9,2,2,2l211-0.8
@@ -51,6 +72,83 @@
 			C79.4,55.1,80.1,54.4,81,54.4z M262,54.4c4.2,0,7.6,3.4,7.6,7.6s-3.4,7.6-7.6,7.6s-7.6-3.4-7.6-7.6S257.8,54.4,262,54.4z"/>
 	</g>
 	<g>
+		<rect x="80" y="116" class="bar" width="8" transform="rotate(180 84 123.5)">
+			<animate
+				attributeName="height"
+				dur="3s"
+				values="15;10;15"
+				repeatCount="indefinite"
+				/>
+		</rect>
+		<rect x="93" y="123" class="bar" width="8" height="8"></rect>		
+		<rect x="106" y="110" class="bar" width="8" transform="rotate(180 110 120.5)">
+			<animate
+				attributeName="height"
+				dur="3s"
+				values="21;30;21"
+				repeatCount="indefinite"
+				/>
+		</rect>
+		<rect x="119" y="113" class="bar" width="8" transform="rotate(180 123 122)">
+			<animate
+				attributeName="height"
+				dur="3s"
+				values="18;10;18"
+				repeatCount="indefinite"
+				/>
+		</rect>		
+		<rect x="132" y="99" class="bar" width="8" height="32" transform="rotate(180 136 115)"></rect>
+		<rect x="158" y="99" class="bar" width="8" transform="rotate(180 162 115)">
+			<animate
+				attributeName="height"
+				dur="3s"
+				values="32;40;32"
+				repeatCount="indefinite"
+				/>
+		</rect>
+		<rect x="145" y="84" class="bar" width="8" transform="rotate(180 149 107.5)">
+			<animate
+				attributeName="height"
+				dur="3s"
+				values="47;35;47"
+				repeatCount="indefinite"
+				/>
+		</rect>
+		<rect x="171" y="110" class="bar" width="8" height="21"></rect>
+		<rect x="184" y="86" class="bar" width="8" height="45" transform="rotate(180 188 108.5)">
+			<animate
+				attributeName="height"
+				dur="3s"
+				values="45;50;45"
+				repeatCount="indefinite"
+				/>
+		</rect>
+		<rect x="197" y="113" class="bar" width="8" height="18"></rect>
+		<rect x="210" y="105" class="bar" width="8" height="26" transform="rotate(180 214 118)">
+			<animate
+				attributeName="height"
+				dur="3s"
+				values="26;30;26"
+				repeatCount="indefinite"
+				/>
+		</rect>
+		<rect x="223" y="123" class="bar" width="8" height="8"></rect>
+		<rect x="236" y="111" class="bar" width="8" height="20" transform="rotate(180 240 121)">
+			<animate
+				attributeName="height"
+				dur="3s"
+				values="20;26;20"
+				repeatCount="indefinite"
+				/>
+		</rect>
+		<rect x="249" y="107" class="bar" width="8" height="24" transform="rotate(180 253 119)">
+			<animate
+				attributeName="height"
+				dur="3s"
+				values="24;30;24"
+				repeatCount="indefinite"
+				/>
+		</rect>		
 		<rect x="262" y="127" class="bar" width="8" height="4" transform="rotate(180 266 129)">
 			<animate
 				attributeName="height"
@@ -59,47 +157,5 @@
 				repeatCount="indefinite"
 				/>
 		</rect>
-		<rect x="132" y="99" class="bar" width="8" height="32"/>
-		<rect x="158" y="99" class="bar" width="8" height="32" transform="rotate(180 162 115)">
-			<animate
-				attributeName="height"
-				dur="2s"
-				values="32;50;32"
-				repeatCount="indefinite"
-				/>
-		</rect>
-		<rect x="106" y="110" class="bar" width="8" height="21"/>
-		<rect x="184" y="86" class="bar" width="8" height="45" transform="rotate(180 188 108.5)">
-			<animate
-				attributeName="height"
-				dur="1s"
-				values="45;50;45"
-				repeatCount="indefinite"
-				/>
-		</rect>
-		<rect x="80" y="116" class="bar" width="8" height="15"/>
-		<rect x="210" y="105" class="bar" width="8" height="26" transform="rotate(180 214 118)">
-			<animate
-				attributeName="height"
-				dur="1s"
-				values="26;30;26"
-				repeatCount="indefinite"
-				/>
-		</rect>
-		<rect x="236" y="111" class="bar" width="8" height="20"/>
-		<rect x="145" y="84" class="bar" width="8" height="47" transform="rotate(180 149 107.5)">
-			<animate
-				attributeName="height"
-				dur="2s"
-				values="47;30;47"
-				repeatCount="indefinite"
-				/>
-		</rect>
-		<rect x="93" y="123" class="bar" width="8" height="8"></rect>
-		<rect x="119" y="113" class="bar" width="8" height="18"></rect>
-		<rect x="171" y="110" class="bar" width="8" height="21"></rect>
-		<rect x="197" y="113" class="bar" width="8" height="18"></rect>
-		<rect x="223" y="123" class="bar" width="8" height="8"></rect>
-		<rect x="249" y="107" class="bar" width="8" height="24"></rect>
 	</g>
 </svg>
