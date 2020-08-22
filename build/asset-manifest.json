@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.9f2d4d28.chunk.js",
-    "main.js.map": "/static/js/main.9f2d4d28.chunk.js.map",
+    "main.js": "/static/js/main.f38f8148.chunk.js",
+    "main.js.map": "/static/js/main.f38f8148.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4a55df43.js",
     "runtime-main.js.map": "/static/js/runtime-main.4a55df43.js.map",
     "static/js/2.beff3ff0.chunk.js": "/static/js/2.beff3ff0.chunk.js",
     "static/js/2.beff3ff0.chunk.js.map": "/static/js/2.beff3ff0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8c52c5bb797e2596475a0fcc7e17fa3c.js": "/precache-manifest.8c52c5bb797e2596475a0fcc7e17fa3c.js",
+    "precache-manifest.93b739bd91c9b768796e1d2aea003f01.js": "/precache-manifest.93b739bd91c9b768796e1d2aea003f01.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.beff3ff0.chunk.js.LICENSE.txt": "/static/js/2.beff3ff0.chunk.js.LICENSE.txt",
-    "static/media/tour-alerts.svg": "/static/media/tour-alerts.e52cdf99.svg",
-    "static/media/tour-issues.svg": "/static/media/tour-issues.73bf996e.svg",
-    "static/media/tour-summary.svg": "/static/media/tour-summary.544615fa.svg",
+    "static/media/tour-alerts.svg": "/static/media/tour-alerts.452e94f3.svg",
+    "static/media/tour-issues.svg": "/static/media/tour-issues.e6f3d2d6.svg",
+    "static/media/tour-summary.svg": "/static/media/tour-summary.cad733fc.svg",
     "static/media/tour-trace.svg": "/static/media/tour-trace.e64f91c5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4a55df43.js",
     "static/js/2.beff3ff0.chunk.js",
-    "static/js/main.9f2d4d28.chunk.js"
+    "static/js/main.f38f8148.chunk.js"
   ]
 }

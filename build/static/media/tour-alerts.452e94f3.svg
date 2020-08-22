@@ -26,7 +26,6 @@
 		stroke-width:1.5;
 		stroke-linejoin: bevel;
 		stroke-miterlimit: 10;
-		stroke-dashoffset: 600;
 		stroke-dasharray: 600;
 		animation: drawline infinite 4s ease-in-out alternate;
 	}

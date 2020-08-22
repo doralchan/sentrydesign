@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "252bc1bfefaea6ba2a8bc08966483b0c",
+    "revision": "95fa68a7ddf02275aa79e5d60382364f",
     "url": "/index.html"
   },
   {
@@ -12,24 +12,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.beff3ff0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4c7330c2c9c5cb6e8653",
-    "url": "/static/js/main.9f2d4d28.chunk.js"
+    "revision": "fc6c0a0e5259772718f8",
+    "url": "/static/js/main.f38f8148.chunk.js"
   },
   {
     "revision": "416be146ddb5e02c6522",
     "url": "/static/js/runtime-main.4a55df43.js"
   },
   {
-    "revision": "e52cdf999ffbf55cd7382ae153f4261c",
-    "url": "/static/media/tour-alerts.e52cdf99.svg"
+    "revision": "452e94f3a6522bc29d543917768f29a2",
+    "url": "/static/media/tour-alerts.452e94f3.svg"
   },
   {
-    "revision": "73bf996e71d0c0a7bcfefc4505ca30fa",
-    "url": "/static/media/tour-issues.73bf996e.svg"
+    "revision": "e6f3d2d6e68fff70735b6c26e6028a59",
+    "url": "/static/media/tour-issues.e6f3d2d6.svg"
   },
   {
-    "revision": "544615faf611233c6cdedf69025c1015",
-    "url": "/static/media/tour-summary.544615fa.svg"
+    "revision": "cad733fca2211d5dcc745ab034475269",
+    "url": "/static/media/tour-summary.cad733fc.svg"
   },
   {
     "revision": "e64f91c52379ed5931ecec3b311d7bf1",
