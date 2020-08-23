@@ -8,59 +8,83 @@
 		.border-orange{fill:none;stroke:#FF7738;stroke-width:1.5;}
 		.row{fill:#EDE7F5;}
 		.row-active {
-			animation: rowDarken 2s infinite ease-in-out;
+			animation: rowDarken 4s infinite ease-in-out;
 		}
 		.tree-active {
-			animation: treeLighten 2s infinite ease-in-out;
+			animation: treeLighten 4s infinite ease-in-out;
 		}
 		.click {
 			transform-origin: bottom center;
-			animation: clicked 2s infinite ease-in-out;
+			animation: clicked 4s infinite ease-in-out;
 		}
 		.borders path{
-			animation: borderLengthen 2s infinite ease-in-out;
+			animation: borderLengthen 4s infinite ease-in-out;
 		}
 		.divider{
 			fill:none;stroke:#3E2C73;stroke-width:0.75;
-			animation: dividerShorten 2s infinite ease-in-out;
+			animation: dividerShorten 4s infinite ease-in-out;
 		}
 		@keyframes rowDarken {
-			0%{
+			0%, 25% {
 				fill:#EDE7F5;
 			}
-			50%, 100% {
+			30%, 90% {
 				fill:#302839;
+			}
+			100% {
+				fill:#EDE7F5;
 			}
 		}
 		@keyframes treeLighten {
-			0%{
+			0%, 25% {
 				fill:#5A4A79;
 			}
-			50%, 100% {
+			30%, 90% {
 				fill:#FFFFFF;
+			}
+			100% {
+				fill:#5A4A79;
 			}
 		}
 		@keyframes clicked {
-			0% {
+			0%, 24% {
 				transform: scaleY(1);
 			}
-			10%{
+			25%{
 				transform: translateY(-1px) scaleY(0.95);
 			}
-			20%, 100% {
+			30%, 84% {
+				transform: translateY(0) scaleY(1);
+			}
+			85% {
+				transform: translateY(-1px) scaleY(0.95);
+			}
+			90%, 100% {
 				transform: translateY(0) scaleY(1);
 			}
 		}
-		@keyframes borderLengthen {
-			50%, 100% {
-				transform: scaleY(1.2);
-			}
-		}
 		@keyframes dividerShorten {
-			20%, 100% {
+			25% {
+				transform: scaleY(1);
+			}
+			40%, 85% {
 				transform: scaleY(0.87);
 			}
+			100% {
+				transform: scaleY(1);
+			}
 		}
+		@keyframes borderLengthen {
+			25% {
+				transform: scaleY(1);
+			}
+			40%, 85% {
+				transform: scaleY(1.2);
+			}
+			100% {
+				transform: scaleY(1);
+			}
+		}		
 	</style>
 	<g id="row-inactive">
 		<path class="row" d="M81,57l210,0v8L81,65V57z"/>
