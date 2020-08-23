@@ -10,17 +10,15 @@
 		.st6{fill:#3E2C73;}
 		.st7{fill:#FFFFFF;}
 		.st8{fill:#FF7738;}
-		.border{
-			fill:none;stroke:#3E2C73;stroke-width:0.75;
-		}
-		.input1 {
-			animation: shiftInput1 6s infinite ease-in-out;
-		}
-		.input2 {
-			animation: shiftInput2 6s infinite ease-in-out;
-		}
+		.border{fill:none;stroke:#3E2C73;stroke-width:0.75;}
 		.input3 {
-			animation: shiftInput3 6s infinite ease-in-out;
+			animation: shiftInput1 8s infinite ease-in-out;
+		}
+		.input4 {
+			animation: shiftInput2 8s infinite ease-in-out;
+		}
+		.input5 {
+			animation: shiftInput3 8s infinite ease-in-out;
 		}
 		@keyframes shiftInput1 {
 			0% {
@@ -32,7 +30,10 @@
 			30%, 40% {
 				transform: translateY(36px);
 			}
-			50%, 100% {
+			50%, 60% {
+				transform: translateY(0);
+			}
+			70%, 100% {
 				transform: translateY(0);
 			}
 		}
@@ -46,7 +47,10 @@
 			30%, 40% {
 				transform: translateY(0);
 			}
-			50%, 100% {
+			50%, 60% {
+				transform: translateY(18px);
+			}
+			70%, 100% {
 				transform: translateY(0);
 			}
 		}
@@ -60,7 +64,10 @@
 			30%, 40% {
 				transform: translateY(-36px);
 			}
-			50%, 100% {
+			50%, 60% {
+				transform: translateY(-18px);
+			}
+			70%, 100% {
 				transform: translateY(0);
 			}
 		}
