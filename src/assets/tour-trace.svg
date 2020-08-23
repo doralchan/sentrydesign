@@ -25,7 +25,7 @@
 			animation: dividerShorten 4s infinite ease-in-out;
 		}
 		@keyframes rowDarken {
-			0%, 25% {
+			0%, 26% {
 				fill:#FFFFFF;
 			}
 			30%, 90% {
@@ -64,7 +64,7 @@
 			}
 		}
 		@keyframes dividerShorten {
-			25% {
+			26% {
 				transform: scaleY(1);
 			}
 			35%, 86% {
@@ -75,7 +75,7 @@
 			}
 		}
 		@keyframes borderLengthen {
-			25% {
+			26% {
 				transform: scaleY(1);
 			}
 			40%, 86% {
