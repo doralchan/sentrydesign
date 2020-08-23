@@ -22,7 +22,7 @@ const Container = styled('div')`
 `
 
 const Image = styled('img')`
-  max-width: 380px;
+  max-width: 360px;
   max-height: 200px;
   justify-self: center;
   align-self: center;
