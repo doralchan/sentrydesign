@@ -26,13 +26,13 @@
 		}
 		@keyframes rowDarken {
 			0%, 25% {
-				fill:#EDE7F5;
+				fill:#FFFFFF;
 			}
 			30%, 90% {
 				fill:#302839;
 			}
 			100% {
-				fill:#EDE7F5;
+				fill:#FFFFFF;
 			}
 		}
 		@keyframes treeLighten {
@@ -53,10 +53,10 @@
 			25%{
 				transform: translateY(-1px) scaleY(0.95);
 			}
-			30%, 84% {
+			30%, 85% {
 				transform: translateY(0) scaleY(1);
 			}
-			85% {
+			86% {
 				transform: translateY(-1px) scaleY(0.95);
 			}
 			90%, 100% {
@@ -67,7 +67,7 @@
 			25% {
 				transform: scaleY(1);
 			}
-			40%, 85% {
+			35%, 86% {
 				transform: scaleY(0.87);
 			}
 			100% {
@@ -78,7 +78,7 @@
 			25% {
 				transform: scaleY(1);
 			}
-			40%, 85% {
+			40%, 86% {
 				transform: scaleY(1.2);
 			}
 			100% {
@@ -87,12 +87,12 @@
 		}		
 	</style>
 	<g id="row-inactive">
-		<path class="row" d="M81,57l210,0v8L81,65V57z"/>
-		<path class="row" d="M81,41l210,0v8L81,49V41z"/>
-		<path class="row" d="M81,25l210,0v8L81,33V25z"/>
-		<path class="row" d="M81,9l210,0v8L81,17V9z"/>
-		<path class="row" d="M81,89l210,0v8L81,97V89z"/>
-		<path class="row" d="M81,73l210,0v8L81,81V73z"/>
+		<path class="row" d="M81,65h210v8H81V65z"/>
+		<path class="row" d="M81,49h210v8H81V49z"/>
+		<path class="row" d="M81,33h210v8H81V33z"/>
+		<path class="row" d="M81,17h210v8H81V17z"/>
+		<path class="row" d="M81,97h210v8H81V97z"/>
+		<path class="row" d="M81,81h210v8H81V81z"/>
 	</g>
 	<g id="span-inactive">
 		<rect x="81" y="9" class="span-purple" width="8" height="8"/>
