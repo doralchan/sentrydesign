@@ -16,8 +16,7 @@ import DiscoverSvg from '../assets/tour-discover.svg';
 
 const Container = styled('div')`
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   height: 100vh;
 `
 
