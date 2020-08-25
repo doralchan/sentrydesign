@@ -1,0 +1,33 @@
+<svg width="251" height="139" viewBox="0 0 251 139" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="13.5" y1="6" x2="13.5" y2="136" stroke="#EDE7F5"/>
+<circle cx="14" cy="12" r="10" fill="#C1B2DD"/>
+<circle cx="14" cy="42" r="10" fill="#C1B2DD"/>
+<circle cx="14" cy="72" r="10" fill="#C1B2DD"/>
+<circle cx="14" cy="102" r="10" fill="#C1B2DD"/>
+<rect width="132" height="3" rx="1.5" transform="matrix(1 0 0 -1 36 130)" fill="#FF7738"/>
+<rect width="27" height="3" rx="1.5" transform="matrix(1 0 0 -1 182 130)" fill="#FF7738"/>
+<rect width="132" height="3" rx="1.5" transform="matrix(1 0 0 -1 36 11)" fill="#3E2C73"/>
+<rect width="27" height="3" rx="1.5" transform="matrix(1 0 0 -1 182 11)" fill="#3E2C73"/>
+<rect width="27" height="3" rx="1.5" transform="matrix(1 0 0 -1 224 130)" fill="#FF7738"/>
+<rect width="27" height="3" rx="1.5" transform="matrix(1 0 0 -1 224 11)" fill="#3E2C73"/>
+<circle cx="13" cy="10" r="9.625" stroke="#3E2C73" stroke-width="0.75"/>
+<path d="M17.1931 6.30432L11.6375 14.3043L8.3042 11.1043" stroke="#3E2C73" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="132" height="3" rx="1.5" transform="matrix(1 0 0 -1 36 41)" fill="#3E2C73"/>
+<rect width="27" height="3" rx="1.5" transform="matrix(1 0 0 -1 182 41)" fill="#3E2C73"/>
+<rect width="27" height="3" rx="1.5" transform="matrix(1 0 0 -1 224 41)" fill="#3E2C73"/>
+<circle cx="13" cy="40" r="9.625" stroke="#3E2C73" stroke-width="0.75"/>
+<path d="M17.1931 36.3043L11.6375 44.3043L8.3042 41.1043" stroke="#3E2C73" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="132" height="3" rx="1.5" transform="matrix(1 0 0 -1 36 71)" fill="#3E2C73"/>
+<rect width="27" height="3" rx="1.5" transform="matrix(1 0 0 -1 182 71)" fill="#3E2C73"/>
+<rect width="27" height="3" rx="1.5" transform="matrix(1 0 0 -1 224 71)" fill="#3E2C73"/>
+<circle cx="13" cy="70" r="9.625" stroke="#3E2C73" stroke-width="0.75"/>
+<path d="M17.1931 66.3043L11.6375 74.3043L8.3042 71.1043" stroke="#3E2C73" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="132" height="3" rx="1.5" transform="matrix(1 0 0 -1 36 101)" fill="#3E2C73"/>
+<rect width="27" height="3" rx="1.5" transform="matrix(1 0 0 -1 182 101)" fill="#3E2C73"/>
+<rect width="27" height="3" rx="1.5" transform="matrix(1 0 0 -1 224 101)" fill="#3E2C73"/>
+<circle cx="13" cy="100" r="9.625" stroke="#3E2C73" stroke-width="0.75"/>
+<path d="M17.1931 96.3043L11.6375 104.304L8.3042 101.104" stroke="#3E2C73" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0.933182 137.477L12.6313 118.391C13.0214 117.755 13.9463 117.755 14.3365 118.391L26.0346 137.477C26.4429 138.144 25.9635 139 25.182 139H1.78578C1.00427 139 0.524793 138.144 0.933182 137.477Z" fill="#FF7738"/>
+<circle cx="13.4839" cy="134.742" r="0.709677" fill="#3E2C73"/>
+<rect x="12.7742" y="124.097" width="1.41935" height="8.51613" rx="0.709677" fill="#3E2C73"/>
+</svg>

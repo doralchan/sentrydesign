@@ -1,0 +1,80 @@
+<svg width="475" height="156" viewBox="0 0 475 156" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="51" width="475" height="19" fill="#C1B2DD"/>
+<path d="M5.15682 150.973L4 3L467.919 4.92766L472 154L5.15682 150.973Z" stroke="#3E2C73" stroke-width="0.75"/>
+<rect x="25" y="24" width="51" height="2" rx="1" fill="#C1B2DD"/>
+<rect x="25" y="31" width="22" height="2" rx="1" fill="#3E2C73"/>
+<rect x="39" y="86" width="22" height="2" rx="1" fill="#3E2C73"/>
+<rect x="200" y="86" width="19" height="2" rx="1" fill="#3E2C73"/>
+<mask id="path-7-inside-1" fill="white">
+<rect x="188" y="83" width="8" height="8" rx="1"/>
+</mask>
+<rect x="188" y="83" width="8" height="8" rx="1" stroke="#C1B2DD" stroke-width="3" mask="url(#path-7-inside-1)"/>
+<rect x="256" y="86" width="19" height="2" rx="1" fill="#3E2C73"/>
+<mask id="path-9-inside-2" fill="white">
+<rect x="243" y="83" width="8" height="8" rx="1"/>
+</mask>
+<rect x="243" y="83" width="8" height="8" rx="1" stroke="#C1B2DD" stroke-width="3" mask="url(#path-9-inside-2)"/>
+<rect x="398" y="86" width="19" height="2" rx="1" fill="#3E2C73"/>
+<rect x="430" y="86" width="22" height="2" rx="1" fill="#3E2C73"/>
+<rect x="108" y="24" width="52" height="2" rx="1" fill="#C1B2DD"/>
+<rect x="108" y="31" width="64" height="2" rx="1" fill="#3E2C73"/>
+<rect x="295" y="24" width="77" height="2" rx="1" fill="#C1B2DD"/>
+<rect x="295" y="31" width="63" height="2" rx="1" fill="#3E2C73"/>
+<rect x="417" y="24" width="35" height="2" rx="1" fill="#C1B2DD"/>
+<rect x="435" y="31" width="17" height="2" rx="1" fill="#3E2C73"/>
+<rect x="25" y="83" width="8" height="8" rx="4" fill="#C1B2DD"/>
+<path d="M108 84C108 83.4477 108.448 83 109 83H137V91H109C108.448 91 108 90.5523 108 90V84Z" fill="#FF7738"/>
+<mask id="path-20-inside-3" fill="white">
+<rect x="295" y="82" width="79" height="10" rx="1"/>
+</mask>
+<rect x="295" y="82" width="79" height="10" rx="1" stroke="#FF7738" stroke-width="3" mask="url(#path-20-inside-3)"/>
+<rect x="39" y="109" width="22" height="2" rx="1" fill="#3E2C73"/>
+<rect x="200" y="109" width="19" height="2" rx="1" fill="#3E2C73"/>
+<mask id="path-23-inside-4" fill="white">
+<rect x="188" y="106" width="8" height="8" rx="1"/>
+</mask>
+<rect x="188" y="106" width="8" height="8" rx="1" stroke="#C1B2DD" stroke-width="3" mask="url(#path-23-inside-4)"/>
+<rect x="256" y="109" width="19" height="2" rx="1" fill="#3E2C73"/>
+<mask id="path-25-inside-5" fill="white">
+<rect x="243" y="106" width="8" height="8" rx="1"/>
+</mask>
+<rect x="243" y="106" width="8" height="8" rx="1" stroke="#C1B2DD" stroke-width="3" mask="url(#path-25-inside-5)"/>
+<rect x="398" y="109" width="19" height="2" rx="1" fill="#3E2C73"/>
+<rect x="430" y="109" width="22" height="2" rx="1" fill="#3E2C73"/>
+<rect x="25" y="106" width="8" height="8" rx="4" fill="#C1B2DD"/>
+<path d="M108 107C108 106.448 108.448 106 109 106H137V114H109C108.448 114 108 113.552 108 113V107Z" fill="#FF7738"/>
+<mask id="path-30-inside-6" fill="white">
+<rect x="295" y="105" width="79" height="10" rx="1"/>
+</mask>
+<rect x="295" y="105" width="79" height="10" rx="1" stroke="#FF7738" stroke-width="3" mask="url(#path-30-inside-6)"/>
+<rect x="39" y="131" width="22" height="2" rx="1" fill="#3E2C73"/>
+<rect x="200" y="131" width="19" height="2" rx="1" fill="#3E2C73"/>
+<mask id="path-33-inside-7" fill="white">
+<rect x="188" y="128" width="8" height="8" rx="1"/>
+</mask>
+<rect x="188" y="128" width="8" height="8" rx="1" stroke="#C1B2DD" stroke-width="3" mask="url(#path-33-inside-7)"/>
+<rect x="256" y="131" width="19" height="2" rx="1" fill="#3E2C73"/>
+<mask id="path-35-inside-8" fill="white">
+<rect x="243" y="128" width="8" height="8" rx="1"/>
+</mask>
+<rect x="243" y="128" width="8" height="8" rx="1" stroke="#C1B2DD" stroke-width="3" mask="url(#path-35-inside-8)"/>
+<rect x="398" y="131" width="19" height="2" rx="1" fill="#3E2C73"/>
+<rect x="430" y="131" width="22" height="2" rx="1" fill="#3E2C73"/>
+<rect x="25" y="128" width="8" height="8" rx="4" fill="#C1B2DD"/>
+<path d="M108 129C108 128.448 108.448 128 109 128H137V136H109C108.448 136 108 135.552 108 135V129Z" fill="#FF7738"/>
+<mask id="path-40-inside-9" fill="white">
+<rect x="295" y="127" width="79" height="10" rx="1"/>
+</mask>
+<rect x="295" y="127" width="79" height="10" rx="1" stroke="#FF7738" stroke-width="3" mask="url(#path-40-inside-9)"/>
+<path d="M472 152.433V1H3.17346L2 155L472 152.433Z" stroke="#FF7738" stroke-width="1.5"/>
+<rect x="25" y="60" width="51" height="2" rx="1" fill="#5A4A79"/>
+<rect x="108" y="60" width="52" height="2" rx="1" fill="#5A4A79"/>
+<rect x="188" y="60" width="31" height="2" rx="1" fill="#5A4A79"/>
+<rect x="243" y="60" width="32" height="2" rx="1" fill="#5A4A79"/>
+<rect x="295" y="60" width="31" height="2" rx="1" fill="#5A4A79"/>
+<rect x="395" y="60" width="22" height="2" rx="1" fill="#5A4A79"/>
+<rect x="430" y="60" width="22" height="2" rx="1" fill="#5A4A79"/>
+<rect x="110.375" y="84.375" width="36.25" height="7.25" rx="0.625" stroke="#3E2C73" stroke-width="0.75"/>
+<rect x="110.375" y="107.375" width="36.25" height="7.25" rx="0.625" stroke="#3E2C73" stroke-width="0.75"/>
+<rect x="110.375" y="129.375" width="36.25" height="7.25" rx="0.625" stroke="#3E2C73" stroke-width="0.75"/>
+</svg>
