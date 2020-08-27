@@ -20,6 +20,8 @@ import EmailSvg from '../assets/tour-email.svg';
 import GraphDoubleSvg from '../assets/tour-graphdouble.svg';
 import TagsSvg from '../assets/tour-tags.svg';
 import BreadcrumbsSvg from '../assets/tour-breadcrumbs.svg';
+import FeedbackSvg from '../assets/tour-feedback.svg';
+import ResultsSvg from '../assets/tour-results.svg';
 
 const Container = styled('div')`
   display: grid;
@@ -57,6 +59,8 @@ class Main extends React.Component {
         <Image src={GraphDoubleSvg} alt='' />
         <Image src={TagsSvg} alt='' />
         <Image src={BreadcrumbsSvg} alt='' />
+        <Image src={FeedbackSvg} alt='' />
+        <Image src={ResultsSvg} alt='' />
       </Container>
   )}
 }
